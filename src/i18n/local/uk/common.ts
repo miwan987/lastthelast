@@ -85,7 +85,7 @@ const uk = {
   gallery_cta: 'Надіслати фото для оцінки',
   gallery_item1: 'Ремонт вм\'ятини — результат PDR',
   gallery_item2: 'Паркувальна вм\'ятина — PDR',
-  gallery_item3: 'Ремонт після граду — PDR',
+  gallery_item3: 'Ремонт заднього крила — PDR',
 
   // Testimonials
   test_label: 'Відгуки клієнтів',

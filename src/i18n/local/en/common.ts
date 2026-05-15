@@ -85,7 +85,7 @@ const en = {
   gallery_cta: 'Send photo for estimate',
   gallery_item1: 'Dent repair — PDR result',
   gallery_item2: 'Parking dent — PDR',
-  gallery_item3: 'Hail repair — PDR',
+  gallery_item3: 'Rear fender repair — PDR',
 
   // Testimonials
   test_label: 'Customer reviews',

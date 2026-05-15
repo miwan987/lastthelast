@@ -85,7 +85,7 @@ const pl = {
   gallery_cta: 'Wyślij zdjęcie do wyceny',
   gallery_item1: 'Naprawa wgniecenia — efekt PDR',
   gallery_item2: 'Wgniecenie parkingowe — PDR',
-  gallery_item3: 'Naprawa po gradzie — PDR',
+  gallery_item3: 'Naprawa błotnika tylnego — PDR',
 
   // Testimonials
   test_label: 'Opinie klientów',
